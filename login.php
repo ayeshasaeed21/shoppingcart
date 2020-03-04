@@ -7,7 +7,7 @@
 ?>
 
         <div class=" simple-form ">
-            <h1>LOG IN</h1>
+            <h1>LOG here</h1>
             <form id="registration" method="post" action="<?php echo $_SERVER['PHP_SELF'] ?>" >
          
                 <input type="text" name="email" class="button" placeholder="Enter your E-mail">

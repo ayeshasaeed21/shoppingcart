@@ -1,0 +1,93 @@
+  body{
+                background-repeat: no-repeat;
+                background-size: 100% 700px;
+                
+            }
+               li
+               {
+                   float:left;
+                   padding: 30px;
+                   margin:0px;
+                   color: white;
+               }
+               ul
+               {
+                   margin: 0px;
+                   list-style-type: none;
+                   display: inline-block;
+                   font-size: 30px;
+               }
+               
+               li:hover
+               {
+                   background-color: blue;
+                  color: white;
+                  
+                   transition: 1s;
+                   cursor: pointer;
+               }
+               a{
+                   text-decoration: none;
+                   color: white;
+               }
+               li a:hover
+               {
+                   text-decoration: none;
+               }
+               
+               button{
+                padding: 10px;
+                border-radius: 5px;
+                
+               }
+             body{
+                background-image:url(img/huiw.jpg);
+                background-repeat: no-repeat;
+                background-size: 100% 800px;
+            }
+            .simple-form{
+                text-align: center;
+                margin: 28px 550px;
+                font-size: 20px;
+            }
+            #registration{
+                width:100%;
+                background-color: #051019;
+                opacity: 0.8;
+                padding: 40px;
+            }
+            .button{
+                padding: 10px;
+                border-radius: 5px;
+            }
+            .color{
+                background-color: green;
+            }
+            
+             
+            body{
+                background-image:url(img/asdgh.jpg);
+                background-repeat: no-repeat;
+                background-size: 1500px 600px;
+            }
+            .simple-form{
+                text-align: center;
+                margin: 100px 500px;
+                font-size: 20px;
+            }
+            #registration{
+                width:100%;
+                background-color: #051019;
+                opacity: 0.8;
+                padding: 50px;
+            }
+            .button{
+                padding: 10px;
+                border-radius: 5px;
+            }
+            .color{
+                background-color: green;
+            }
+            
+            
+            
